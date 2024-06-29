@@ -1,0 +1,7 @@
+User-Agent: Googlebot
+Disallow: 
+
+User-agent: *
+Disallow: /
+
+Sitemap: https://balltite.github.io/sitemap/sitemap.xml.gz
